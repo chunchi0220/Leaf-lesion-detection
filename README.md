@@ -19,6 +19,9 @@
 資料集為草莓葉片圖片，有葉枯病 (leaf blight) 與角斑病 (angular spot)之葉片，Label 為 0 代表葉枯病，1 代表角斑病。
 ### 資料分割
 將training data資料夾中的.jpg檔的圖片以及經由上個步驟剛轉完的.txt的標記檔，經由手動的方式，將資料集拆分為9：1的訓練集和測試集。
-## yolov5
+## yolov5(在yolov5_README.md中有git yolov5的相關資訊)
 ### 模型概述
 模型採用的是 yolov5 的模型， yolov5 是一個非常適合用來做 object detection 的模型。
+
+## 資料集
+下載處：https://drive.google.com/drive/folders/1u1oH-PZRrA73zMz7dj5Lf_hfaLFKIjxv?usp=sharing
